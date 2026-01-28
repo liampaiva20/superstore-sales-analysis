@@ -1,5 +1,7 @@
 # Superstore Sales Data Analysis
 
+![Superstore Sales Dashboard](screenshots/Superstore_Dashboard.png)
+
 ## Project Overview
 This project analyzes Superstore sales data to uncover trends in sales performance, profitability, and product demand.  
 The workflow includes data cleaning and preparation in Python, followed by interactive data visualization in Power BI.
